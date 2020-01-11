@@ -2,8 +2,6 @@
 main:
   - title: "Login"
     url: /login/
-  - title: "Student Sign Up"
-    url: /sign-up/
   - title: "Projects"
     url: /projects/
   # - title: "About"
@@ -14,3 +12,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  #- title: "Student Sign Up"
+  #  url: /sign-up/
