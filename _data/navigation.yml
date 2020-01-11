@@ -3,7 +3,7 @@ main:
   - title: "Login"
     url: /login/
   - title: "Student Sign Up"
-    url: /student-sign-up/
+    url: /sign-up/
   - title: "Projects"
     url: /projects/
   # - title: "About"
