@@ -4,6 +4,8 @@ main:
     url: /login/
   - title: "Student Sign Up"
     url: /student-sign-up/
+  - title: "Projects"
+    url: /projects/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
